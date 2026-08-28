@@ -1,0 +1,21 @@
+{
+    "version": "0.1.0-rc6",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/tentaqles/tentaqles/releases/download/v0.1.0-rc6/tq_0.1.0-rc6_windows_amd64.zip",
+            "bin": [
+                "tq.exe"
+            ],
+            "hash": "1b212c12be999002ec05adef25aa3fbc0d85840e3e9591fd54e9349f133ed8b1"
+        },
+        "arm64": {
+            "url": "https://github.com/tentaqles/tentaqles/releases/download/v0.1.0-rc6/tq_0.1.0-rc6_windows_arm64.zip",
+            "bin": [
+                "tq.exe"
+            ],
+            "hash": "02cf4cc99f7385e3bc31d6e083a7defa1aa88f917ab0dd551bf0e49a97311422"
+        }
+    },
+    "homepage": "https://tentaqles.ai",
+    "description": "One terminal identity per workspace folder"
+}
