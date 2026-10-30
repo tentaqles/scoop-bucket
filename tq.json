@@ -1,19 +1,19 @@
 {
-    "version": "0.8.0",
+    "version": "0.8.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/tentaqles/tentaqles/releases/download/v0.8.0/tq_0.8.0_windows_amd64.zip",
+            "url": "https://github.com/tentaqles/tentaqles/releases/download/v0.8.1/tq_0.8.1_windows_amd64.zip",
             "bin": [
                 "tq.exe"
             ],
-            "hash": "c3e6980377c61486710e81380c7777dba155da163835d6ed80500e08b3d771b4"
+            "hash": "7191c7e166a1790a2183dd6c6eb01a5b49dad96ce8f2cad918ce153086a0de29"
         },
         "arm64": {
-            "url": "https://github.com/tentaqles/tentaqles/releases/download/v0.8.0/tq_0.8.0_windows_arm64.zip",
+            "url": "https://github.com/tentaqles/tentaqles/releases/download/v0.8.1/tq_0.8.1_windows_arm64.zip",
             "bin": [
                 "tq.exe"
             ],
-            "hash": "fc5c3cec5e51b2a5e24ee8304bbf0c279d6a75d2c9ae296fe1959c90feb02483"
+            "hash": "b1481bf97e47ad389165bf4f3a3a1bc340ba37c77e15e6b43bee1a388df87952"
         }
     },
     "homepage": "https://tentaqles.ai",
